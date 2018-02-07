@@ -1,0 +1,5 @@
+Each cxx file has its own properties page. 
+When I was building the project, one cxx file included some .h file, which included another .h file that compiler cannot find.
+I tried very hard to set include path under the project properties, but not under the specified file.
+So I failed.
+Remember you can specify include path for every cxx file!!!!
